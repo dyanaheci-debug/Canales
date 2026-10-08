@@ -7,24 +7,14 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_250
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 group-title="Kurdistan",CHANNEL 8
 https://live.channel8.com/Channel8-Kurdish/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="Kurdistan",Bangawaz
-https://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdistan",SPEDA Tv
 https://speda1.site/upload/images/spedahd.m3u8
 #EXTINF:-1 group-title="Kurdistan",NUC TV
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
-#EXTINF:-1 group-title="Kurdistan",AVA Media
-https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="Kurdistan",welat
-https://stream.welattv.net:1935/welat/tv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdistan",PAYAM
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 group-title="Kurdistan",Zagros 24
 https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24-avc1_2500000=10002,mp4a_128000=20000.m3u8
-#EXTINF:-1 group-title="Kurdistan",Gali Kurdistan
-https://live.host247.net/gk/gksat/chunklist_w1044399986.m3u8
-#EXTINF:-1 group-title="Kurdistan",KERKUK TV
-https://silka.m3um9xplus.org:2052/live/88577072662804/15518509928643/601413.ts
 #EXTINF:-1 group-title="Kurdistan",Kurdistan 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
 #EXTINF:-1 group-title="Kurdistan",ROJHELAT
@@ -35,122 +25,33 @@ https://kurdchhls.wns.live/hls/stream.m3u8
 https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
 #EXTINF:-1 group-title="Kurdistan",IRIB Mahabad
 https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",IRIB Kermanshah
-https://live-aburayhan1101.telewebion.ir/ek/zagros/live/576p/index.m3u8
-#EXTINF:-1 group-title="Kurdistan",IRIB ILAM
-https://live-aburayhan1107.telewebion.ir/ek/ilam/live/576p/index.m3u8
 #EXTINF:-1 group-title="Kurdistan",STERK TV
 https://zindi.sterk.tv/live/sterk.m3u8
 #EXTINF:-1 group-title="Kurdistan",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Kurdistan",KURDMAX sorani
-https://31.43.191.125:8080/live/restream/restream/25194.ts
-#EXTINF:-1 group-title="Kurdistan",KURDMAX Show Sorani
-https://31.43.191.125:8080/live/restream/restream/25196.ts
-#EXTINF:-1 group-title="Kurdistan",Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Kurdistan",Cafe Film
-https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Kurdistan",Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w735693271_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Kurdistan",TRT KURDi
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Kurdistan",Hormzyar
-https://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Zhin Film
-https://183.bozztv.com/giatv/giatv-zhinfilm/zhinfilm/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",ANIMAL BOX
-https://live20.bozztv.com:443/giatv/giatv-animalbox/animalbox/chunks.m3u8
-#EXTINF:-1 group-title="Kurdistan",ZNAR TV
-https://live20.bozztv.com/giatv/giatv-halabja88tv/halabja88tv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",AVAR
-https://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Eurokurd
-https://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
-#EXTINF:-1 group-title="Kurdistan",SADA
-https://sada-hd.ddns.net:40/live/sadatv/index.m3u8?checkedby:Halabja88
-#EXTINF:-1 group-title="Kurdistan",HALABJA TV
-https://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",KHAK
-https://Khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Soran Entertainment
-https://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",SHNA TV
-https://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Kalhur TV
-https://live20.bozztv.com:443/giatv/giatv-kalhurtv/kalhurtv/chunks.m3u8
-#EXTINF:-1 group-title="Kurdistan",SPEDA DRAMA
-https://speda2.site/upload/images/spedadrama.m3u8
-#EXTINF:-1 group-title="Kurdistan",Dunya TV
-https://dunyahd.ddns.net/live/DunyaHd/index.m3u8
-#EXTINF:-1 group-title="Kurdistan",KOMALL TV
-https://lbgo.bozztv.com/ssh101/ssh101/onetvkomall/chunks.m3u8
-#EXTINF:-1 group-title="Kurdistan",Afarin Kids
-https://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377
-#EXTINF:-1 group-title="Kurdistan",Afarin Radio
-https://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Afarin Baxcha
-https://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MIHRAB RADIO
-https://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",IMK TV
-https://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",IMK QURAN
-https://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Dengi Quran Soran
-https://live20.bozztv.com/giatv/giatv-halabja88soranfm/halabja88soranfm/chunks.m3u8
 #EXTINF:-1 group-title="Kurdistan",SUPER TV
 https://super.krd/live/tv.m3u8
-#EXTINF:-1 group-title="Kurdistan",Farmoda
-https://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MihrabTV
-https://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8?checkedby:Halabja88
-#EXTINF:-1 group-title="Kurdistan",ONE PLUS
-https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8
-#EXTINF:-1 group-title="Kurdistan",Just For Laughs Gags
-https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Alla Tv
-https://avrstream.com:1935/live/ala-hd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Kelga Tv
-https://lbgo.bozztv.com/ssh101/live/Kelga/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",GK +
-https://live.host247.net/gk/gkplus/halabja88.m3u8
-#EXTINF:-1 group-title="Kurdistan",Derin
-https://baskhd.ddns.net:40/live/Derin/index.m3u8?checkedby:Halabja88
-#EXTINF:-1 group-title="Kurdistan",SHAR QURAN
-https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
-#EXTINF:-1 group-title="Kurdistan",SHAR Family
-https://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1 group-title="Kurdistan",Zarok Kids
 https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 group-title="Kurdistan",Kidco
-https://avrstream.com:1935/live/kidcohd/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Biner TV Zaxo
-https://lbgo.bozztv.com/ssh101/live/biner-zaxo/playlist.m3u8
 #EXTINF:-1 group-title="Kurdistan",infinity TV
 https://cdn.karwan.tv/infinity-tv/index.m3u8
-#EXTINF:-1 group-title="Kurdistan",Parwardayi Slemani
-https://183.bozztv.com/giatv/giatv-parwardasuli/parwardasuli/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",TV NEWS
-https://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Kurdistan",Mix Kurdy
-https://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",ZAGROS TV
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN SHOW
-https://mmn.mypsx.net:1935/live/mmnhddshow/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN NEWS
-https://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN Drama
-https://mmn.mypsx.net:1935/live/mmnhddrama/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN Action
-https://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN Movies
-https://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN Quran
-https://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",MMN Documentary
-https://mmn.mypsx.net:1935/live/mmnhddocumentary/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Radio Kurdi
-https://183.bozztv.com/giatv/giatv-radiokurdi/radiokurdi/playlist.m3u8
-#EXTINF:-1 group-title="Kurdistan",Garyan Media
+#EXTINF:-1 group-title="Kurdistan",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 group-title="Kurdistan",ROJAVA TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="Kurdistan",WAAR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 group-title="Kurdistan",CIRA TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 group-title="NEWS",al jazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="NEWS",alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 group-title="NEWS",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="NEWS",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="NEWS",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
